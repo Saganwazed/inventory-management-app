@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # smart-pantry
 # inventory-management-app
 # inventory-management-app
+# inventory-management-app
